@@ -1,0 +1,185 @@
+ASHOK KUMAR N
+
+MAIL ID: ashok16b@gmail.com	PHONE: +91 7026836649
+
+CAREER OBJECTIVE
+
+Detail-oriented Software Engineer with 2.9 years of experience and a strong academic background in Electrical and Electronics Engineering (EEE), seeking a position in AWS Cloud and Linux administration. Possess hands-on experience with AWS services, Linux systems, networking fundamentals, and troubleshooting, with a strong interest in cloud infrastructure, automation, and system reliability. Eager to contribute to cloud operations, deployment, and support while continuously enhancing technical skills in AWS and Linux environments.
+
+
+PROFESSIONAL EXPERIENCE
+
+ABSS PVT LTD – Bangalore
+Software Engineer
+May-2025 - present
+
+  Managed and supported AWS cloud infrastructure including EC2, S3, IAM, VPC, EBS, and Cloud Watch. 
+ Launched, configured, and maintained EC2 Linux instances for application deployment and server management. 
+ Monitored system performance, logs, and alerts using Amazon CloudWatch and performed troubleshooting for production issues. 
+ Managed IAM users, roles, and policies to ensure secure access control across AWS resources. 
+ Handled S3 buckets for storage, backup, and data lifecycle management. 
+ Performed Linux administration tasks such as user management, file permissions, process monitoring, and package installation. 
+ Supported incident management and troubleshooting for server and application-related issues. 
+ Assisted in basic automation tasks using shell scripting (bash) for routine system operations. 
+ worked on network configurations including security groups, VPC subnets, and routing tables. 
+ Collaborated with teams to ensure high availability and system uptime in cloud environments.
+Tech Mahindra – Bangalore
+
+Associate Support Engineer Oct 2024 – Apr 2025
+Provided Level 1 support for enterprise users, resolving OS, application, and network issues.
+Worked extensively with Windows OS, Service Now, Active Directory, and Outlook.
+Diagnosed system-level issues, enhancing problem-solving and analytical skills relevant to embedded debugging.
+Coordinated with L2/L3 teams and maintained SLA compliance.
+Generated daily operational and incident reports.
+
+GS Management Private Limited – Bangalore
+
+Technical Support Engineer AUG 2023 – AUG 2024
+
+Installed, configured, and troubleshot desktops, peripherals, and network devices.
+Managed IT infrastructure for 50+ users, strengthening system-level understanding.
+Configured and maintained DNS, DHCP, and Active Directory.
+Resolved LAN, IP addressing, switch, and router-related issues.
+Hands-on experience with hardware diagnostics and system configuration.
+
+Cognizant – Bangalore
+
+Associate Software Engineer (Internship) Jan 2022 – Aug 2022
+
+
+Assisted in application support, testing, and documentation tasks.
+Learned SDLC basics, testing methodologies, and enterprise workflows.
+
+Project: Server less Web Application on AWS
+Description:
+Worked on a serverless application deployed on AWS to handle real-time user requests, notifications, and data storage using fully managed AWS services, ensuring high availability and scalability.
+Architecture / Services Used:
+AWS Lambda, API Gateway, Dynamo, SNS, Cloud Front, S3
+Responsibilities:
+Developed and supported a server less architecture using AWS Lambda for backend processing of user requests 
+Configured API Gateway to expose REST APIs for frontend and mobile applications 
+Used Dynamo as a NoSQL database for storing and retrieving application data with low latency 
+Implemented Amazon SNS for sending real-time notifications (email/SMS) to users based on events 
+Integrated Cloud Front CDN to improve application performance and reduce latency for global users 
+Hosted static web content on Amazon S3 and connected it with Cloud Front distribution 
+Monitored application performance and logs using Cloud Watch 
+Performed troubleshooting for API failures, Lambda execution errors, and Dynamo throttling issues 
+Supported production incidents and ensured system availability in a Tier 3 support environment
+
+
+TECHNICAL SKILLS
+
+Linux 
+AWS
+Networking
+Automation Testing (Tosca – Basic)
+AutoCAD (Basic – Electrical Drawings)
+
+
+
+EDUCATION
+Bachelor of Technology – Electrical & Electronics Engineering (EEE) Reva University, Bangalore -2020--2022
+Percentage: 85%
+
+
+
+ DECLARATION
+  I hereby declare that the above information is true to the best of my knowledge and belief.
+
+ Place: Bangalore	Name: Ashok Kumar N
+
+ASHOK KUMAR N
+
+MAIL ID: ashok16b@gmail.com	PHONE: +91 7026836649
+
+CAREER OBJECTIVE
+
+Detail-oriented Software Engineer with 2.9 years of experience and a strong academic background in Electrical and Electronics Engineering (EEE), seeking a position in AWS Cloud and Linux administration. Possess hands-on experience with AWS services, Linux systems, networking fundamentals, and troubleshooting, with a strong interest in cloud infrastructure, automation, and system reliability. Eager to contribute to cloud operations, deployment, and support while continuously enhancing technical skills in AWS and Linux environments.
+
+
+PROFESSIONAL EXPERIENCE
+
+ABSS PVT LTD – Bangalore
+Software Engineer
+May-2025 - present
+
+  Managed and supported AWS cloud infrastructure including EC2, S3, IAM, VPC, EBS, and Cloud Watch. 
+ Launched, configured, and maintained EC2 Linux instances for application deployment and server management. 
+ Monitored system performance, logs, and alerts using Amazon CloudWatch and performed troubleshooting for production issues. 
+ Managed IAM users, roles, and policies to ensure secure access control across AWS resources. 
+ Handled S3 buckets for storage, backup, and data lifecycle management. 
+ Performed Linux administration tasks such as user management, file permissions, process monitoring, and package installation. 
+ Supported incident management and troubleshooting for server and application-related issues. 
+ Assisted in basic automation tasks using shell scripting (bash) for routine system operations. 
+ worked on network configurations including security groups, VPC subnets, and routing tables. 
+ Collaborated with teams to ensure high availability and system uptime in cloud environments.
+Tech Mahindra – Bangalore
+
+Associate Support Engineer Oct 2024 – Apr 2025
+Provided Level 1 support for enterprise users, resolving OS, application, and network issues.
+Worked extensively with Windows OS, Service Now, Active Directory, and Outlook.
+Diagnosed system-level issues, enhancing problem-solving and analytical skills relevant to embedded debugging.
+Coordinated with L2/L3 teams and maintained SLA compliance.
+Generated daily operational and incident reports.
+
+GS Management Private Limited – Bangalore
+
+Technical Support Engineer AUG 2023 – AUG 2024
+
+Installed, configured, and troubleshot desktops, peripherals, and network devices.
+Managed IT infrastructure for 50+ users, strengthening system-level understanding.
+Configured and maintained DNS, DHCP, and Active Directory.
+Resolved LAN, IP addressing, switch, and router-related issues.
+Hands-on experience with hardware diagnostics and system configuration.
+
+Cognizant – Bangalore
+
+Associate Software Engineer (Internship) Jan 2022 – Aug 2022
+
+
+Assisted in application support, testing, and documentation tasks.
+Learned SDLC basics, testing methodologies, and enterprise workflows.
+
+Project: Server less Web Application on AWS
+Description:
+Worked on a serverless application deployed on AWS to handle real-time user requests, notifications, and data storage using fully managed AWS services, ensuring high availability and scalability.
+Architecture / Services Used:
+AWS Lambda, API Gateway, Dynamo, SNS, Cloud Front, S3
+Responsibilities:
+Developed and supported a server less architecture using AWS Lambda for backend processing of user requests 
+Configured API Gateway to expose REST APIs for frontend and mobile applications 
+Used Dynamo as a NoSQL database for storing and retrieving application data with low latency 
+Implemented Amazon SNS for sending real-time notifications (email/SMS) to users based on events 
+Integrated Cloud Front CDN to improve application performance and reduce latency for global users 
+Hosted static web content on Amazon S3 and connected it with Cloud Front distribution 
+Monitored application performance and logs using Cloud Watch 
+Performed troubleshooting for API failures, Lambda execution errors, and Dynamo throttling issues 
+Supported production incidents and ensured system availability in a Tier 3 support environment
+
+
+TECHNICAL SKILLS
+
+Linux 
+AWS
+Networking
+Automation Testing (Tosca – Basic)
+AutoCAD (Basic – Electrical Drawings)
+
+
+
+EDUCATION
+Bachelor of Technology – Electrical & Electronics Engineering (EEE) Reva University, Bangalore -2020--2022
+Percentage: 85%
+
+
+
+ DECLARATION
+  I hereby declare that the above information is true to the best of my knowledge and belief.
+
+ Place: Bangalore	Name: Ashok Kumar N
+
+:wq!
+:wq!
+:wq!
+
+
